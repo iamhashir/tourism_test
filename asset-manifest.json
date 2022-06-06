@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tourism_test/static/css/main.fc058d3d.css",
-    "main.js": "/tourism_test/static/js/main.caa42629.js",
+    "main.js": "/tourism_test/static/js/main.29fd14c8.js",
     "static/media/u-a-e-3664712.jpg": "/tourism_test/static/media/u-a-e-3664712.4c0a8082f38e7f0ee114.jpg",
     "static/media/Ajman.jpg": "/tourism_test/static/media/Ajman.c2fa9cdd086bbcd883a4.jpg",
     "static/media/Rak.jpg": "/tourism_test/static/media/Rak.1728a0eb88e6d506afc5.jpg",
@@ -56,10 +56,10 @@
     "static/media/AS4.jpg": "/tourism_test/static/media/AS4.487e89e328327763e475.jpg",
     "index.html": "/tourism_test/index.html",
     "main.fc058d3d.css.map": "/tourism_test/static/css/main.fc058d3d.css.map",
-    "main.caa42629.js.map": "/tourism_test/static/js/main.caa42629.js.map"
+    "main.29fd14c8.js.map": "/tourism_test/static/js/main.29fd14c8.js.map"
   },
   "entrypoints": [
     "static/css/main.fc058d3d.css",
-    "static/js/main.caa42629.js"
+    "static/js/main.29fd14c8.js"
   ]
 }
